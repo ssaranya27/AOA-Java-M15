@@ -70,7 +70,7 @@ For example:
 ```
 /*
 Program to implement Reverse a String
-Developed by:Saranya S
+Developed by: Saranya S
 Register Number:  212223220101
 */
 import java.util.*;
